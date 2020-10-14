@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.turingtechnologies.materialscrollbar:lib:10.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e13d59324c8a93498a88324a5be806b2/lib-10.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e13d59324c8a93498a88324a5be806b2/lib-10.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e13d59324c8a93498a88324a5be806b2/lib-10.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.turingtechnologies.materialscrollbar/lib/10.0.1/43c5f768fb5b27691383362eff0ed15215d406ca/lib-10.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.turingtechnologies.materialscrollbar/lib/10.0.1/4ef4e0687bd1839429e967e7af398bac01bba52a/lib-10.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
